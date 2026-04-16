@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches/build_file_checksums.ser
+/.idea/caches/resolve_jars_mac_os_x.ser
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Custom ignore for local gradle download
+gradle.zip
+gradle-8.7/
+
+# App module build
+/app/build/
